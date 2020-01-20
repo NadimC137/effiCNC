@@ -16,3 +16,11 @@ alt="Click to view: effiCNC: Engraving HELLO" width="500" border="1" /></a>
 Full structure was designed in Solidworks (files are given). Other mechanical parts used are bought from aliexpress (details and links will be given soon)
 
 <img src="https://github.com/NadimC137/effiCNC/blob/master/images/Untitled-1.png" width="800">
+
+## Control
+For controlling the hardware I have used GRBL 0.9 with arduino UNO and CNC shield v3.0. For gcode conversion, the best free to use software i found is easel from inventables. And I usually use Universal Gcode Sender Platform for sending gcode to machine. Links for all of these are given below.
+
+* [GRBL](https://github.com/gnea/grbl)
+* [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield/)
+* [Easel](http://easel.inventables.com/)
+* [UGS Platform](https://winder.github.io/ugs_website/guide/platform/)
