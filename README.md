@@ -7,7 +7,7 @@ Work area of this machine is 27cm x 22cm. This was made mostly out of 18mm thick
  
  
  ## Video 
- ### Cutting Plywood
+ ### Engraving on Plywood
 <a href="https://youtu.be/KvGP34OzlSg" target="_blank"><img src="https://img.youtube.com/vi/KvGP34OzlSg/0.jpg" 
 alt="Click to view: effiCNC: Engraving HELLO" width="500" border="1" /></a>
 
